@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- By Lewis Sidebotham - S1318445-->
+<resources>
+    <string name="hello">Hello World, HttpTestActivity!</string>
+    <string name="app_name">CarParkTest</string>
+    <string name="carparks">CarParks:</string>
+    <string name="carparkidentity">CarParkIndentity</string>
+   <string name="occupiedspaces">OccupiedSpaces:</string>
+   <string name="carparkoccupancy">CarParkOccupancy:</string>
+   <string name="carparkstatus">CarParkStatus:</string>
+   <string name="totalcapacity">TotalCapacity:</string>
+   
+   
+       
+</resources>
